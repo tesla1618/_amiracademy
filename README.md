@@ -1,6 +1,7 @@
 
 
 #Caption
+
 AMIRLab is pleased to introduce AMIR Academy, a dedicated platform offering high-quality bootcamps and specialized courses in Artificial Intelligence, Machine Learning, and professional skill development. The initiative is designed to support students, researchers, and professionals in acquiring cutting-edge knowledge and practical experience in key areas of technology and innovation.
 
 Key benefits of joining AMIR Academy include:
